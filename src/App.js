@@ -8,7 +8,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          First edit for github actions
+          Second edit for github actions
+        </p>
+        <p>
+          Should not deploy if test fails
         </p>
         <a
           className="App-link"
