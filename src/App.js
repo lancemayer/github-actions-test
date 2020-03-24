@@ -11,7 +11,7 @@ function App() {
           Second edit for github actions
         </p>
         <p>
-          Should not deploy if test fails
+          Should deploy now that tests pass
         </p>
         <a
           className="App-link"
